@@ -5,16 +5,16 @@
 0.9.6
  
  
-### Karbon (v 0.9.2)
+*Karbon* (_v 0.9.2_)
  
 * [feature] do the thing
  
-### karbon_data (v 0.9.3)
+*karbon_data* (_v 0.9.3_)
  
 * [bug] do the thing
 * [feature] another thing
  
-### karbon_kontacts (v 0.9.4)
+*karbon_kontacts* (_v 0.9.4_)
  
 * [feature] cool
 * [feature] boo
